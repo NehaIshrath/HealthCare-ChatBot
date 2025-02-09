@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 streamlit
 transformers
 tensorflow
 nltk
+=======
+streamlit
+transformers
+tensorflow
+nltk
+>>>>>>> 7d4906a3789e7c37177422864c0de18bcdc2ceb4
 tf-keras
